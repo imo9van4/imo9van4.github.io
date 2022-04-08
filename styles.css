@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+.heading {
+  display: flex;
+  text-align: center;
+  margin-top: 10px;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+hr {
+  margin-right: 140px;
+  margin-left: 140px;
+}
